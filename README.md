@@ -1,1 +1,1 @@
-This a p
+This a page that I will write about the thing i studied.
