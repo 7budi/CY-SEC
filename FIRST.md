@@ -1,5 +1,5 @@
-#subdomain 
-To find subdomains there is  a tool called sublist3r which is very easy to use.
+# Subdomain 
+1)To find subdomains there is  a tool called sublist3r which is very easy to use.
 Ex: sublist3r -d youtube.com.
-There is also crt.com in website.
-Another one is amass which is very good subdomain finder it's a bit complicated to use.
+2)There is also crt.com in website.
+3)Another one is amass which is very good subdomain finder it's a bit complicated to use.
