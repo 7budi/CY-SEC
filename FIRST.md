@@ -18,3 +18,4 @@ EX: nmap -p- -T4 -A -vv -oA 192.aa.aa.aa.
 -Searchsploit is a tool used to find manual for exploiting offline in terminal.
 -Shell means having access to a machine.
 -Reverse shell means a victim connect to us.
+-Bind shell means we connect to the target.
