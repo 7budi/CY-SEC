@@ -11,5 +11,7 @@ EX: nmap -p- -T4 -A -vv -oA 192.aa.aa.aa.
 -Nikto is a tool for vulnerability scan mostly for beginners and it can be sometimes blocked when there is a good security(firewallp).
 -SMB is commonly used in work environment and internal environment.
 -SMB (Server Message Block) is a network protocol that allows computers on a network to share files, printers, and other resources.
+-smbclient is a tool use to connect to the remote smb share and the user can upload,download,browse and list file in the server.
 ## Metasploit
--Is a tool not only for enumerating it can be used for scanning and even pirivlage 
+-Is a tool not only for enumerating it can be used for scanning and even privilege escalation.
+***NOTE:*** One should know how to gather information very well that will make exploiting easier.
