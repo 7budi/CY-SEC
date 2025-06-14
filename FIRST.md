@@ -19,3 +19,6 @@ EX: nmap -p- -T4 -A -vv -oA 192.aa.aa.aa.
 -Shell means having access to a machine.
 -Reverse shell means a victim connect to us.
 -Bind shell means we connect to the target.
+
+NOTE: to use nessus we use /bin/systemctl start nessusd.service
+then go to browser and enter https://kali:8834/.
