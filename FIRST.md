@@ -15,3 +15,4 @@ EX: nmap -p- -T4 -A -vv -oA 192.aa.aa.aa.
 ## Metasploit
 -Is a tool not only for enumerating it can be used for scanning and even privilege escalation.
 ***NOTE:*** One should know how to gather information very well that will make exploiting easier.
+-Searchsploit is a tool used to find manual for exploiting offline in terminal.
