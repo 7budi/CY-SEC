@@ -16,3 +16,5 @@ EX: nmap -p- -T4 -A -vv -oA 192.aa.aa.aa.
 -Is a tool not only for enumerating it can be used for scanning and even privilege escalation.
 ***NOTE:*** One should know how to gather information very well that will make exploiting easier.
 -Searchsploit is a tool used to find manual for exploiting offline in terminal.
+-Shell means having access to a machine.
+-Reverse shell means a victim connect to us.
