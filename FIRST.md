@@ -8,3 +8,4 @@ Its used to gain some information about the target like the ports its using, ser
 EX: nmap -p- -T4 -A -vv -oA 192.aa.aa.aa.
 We can use the -sU to scan the UDP but since its very slow we just scan the first 1000 ports  only.
 # Enumerating 
+-Nikto is a tool for vulnerability scan mostly for beginners and it can be sometimes blocked when there is a good security(firewall).
