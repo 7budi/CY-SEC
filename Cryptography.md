@@ -11,3 +11,6 @@ It's a hash that checks the validity of some data.
 
 CMS signature is a standardized way to send data+ signature + certificate in one file. 
 SOAP signature is a way to send data and signature and optionally certificate. ALL in XML payload. 
+
+To deteremine the modulus of  RSA key as a hex string:
+openssl rsa -pubin -in key.txt -text -noout
