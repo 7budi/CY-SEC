@@ -14,3 +14,4 @@ SOAP signature is a way to send data and signature and optionally certificate. A
 
 To deteremine the modulus of  RSA key as a hex string:
 openssl rsa -pubin -in key.txt -text -noout
+Since your private key is in **PKCS#8 PEM format**, it contains **both the private and public key information** internally.
